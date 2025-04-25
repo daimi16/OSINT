@@ -9,7 +9,7 @@ The 4 API's utilised were : News API, Reddit API, data.gov API, and Aviation Sta
 
 ## Requirements and Dependencies
 
-- Python 3.7+
+- Python 3.7+ (Max Version - 3.11)
 - Libraries required are listed in the requirements.txt
 
 ## Steps for using the project
