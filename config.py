@@ -1,8 +1,8 @@
-NEWSAPI_KEY = "f9c342e5b72b4a86afce514e1d2fc81f"
-REDDIT_CLIENT_ID = "aZKCI5J4qLZnnJP3TGZMiA"
-REDDIT_CLIENT_SECRET = "Lzs27fuIns3BAkHh9hmtaxOTWTNq7w"
-REDDIT_USER_AGENT = "python:data-dashboard:v1.0 (by /u/amadeusXXXX)"
-AVIATIONSTACK_KEY = "69b6b5c7b44200cc1fbdedb9fd544ef2"
+NEWSAPI_KEY = ""
+REDDIT_CLIENT_ID = ""
+REDDIT_CLIENT_SECRET = ""
+REDDIT_USER_AGENT = "python:data-dashboard:v1.0 (by /u/[enter username here])"
+AVIATIONSTACK_KEY = ""
 GOVERNMENT_DATA_KEY = ""
 
 DEBUG = True
