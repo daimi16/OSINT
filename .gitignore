@@ -6,7 +6,6 @@ env/
 .vscode/
 *.swp
 *.swo
-*.xlsx
 *.db
 *.sqlite3 
 __pycache__/
